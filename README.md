@@ -34,6 +34,10 @@ O tem neste projeto.
 - Botão com amimação.
 - Imagem do fundo 100%.
   
+Pasta de Imagem no HTML e CSS.
+  
+<img src="/Imagens/imag01.png" width="1028"> 
+  
 Como consegui o deixa a imagem do fundo 100%.
   
 <img src="/Videos/video02.gif" width="1028"> 
