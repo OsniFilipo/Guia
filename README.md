@@ -36,7 +36,7 @@ O tem neste projeto.
   
 Como consegui o deixa a imagem do fundo 100%.
   
-![Resume cv](/Videos/video02.gif)
+<img src="/Videos/video02.gif" width="1028"> 
   
 ```
 
@@ -51,7 +51,7 @@ Como consegui o deixa a imagem do fundo 100%.
   
 Botão com amimação para lado.
   
-![Resume cv](/Videos/video01.gif)
+<img src="/Videos/video01.gif" width="1028"> 
   
 ```
 
@@ -70,7 +70,7 @@ Botão com amimação para lado.
   
 Botão com amimação para lado 02.
   
-![Resume cv](/Videos/video03.gif)
+<img src="/Videos/video03.gif" width="1028"> 
   
 ```
 
