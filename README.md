@@ -24,15 +24,97 @@ A ideia deste repositório é guiar o usuário, usando ``README.md`` nos projeto
   - <a href="https://github.com/OsniFilipo/Jogo-de-Jokenpo"><i>Jogo de Jokenpo.</i></a><span>
   - <a href="https://github.com/OsniFilipo/Aprovando_Empr-stimo"><i>Aprovando Empréstimo em Python.</i></a><span>
   - <a href="https://github.com/OsniFilipo/Curso-Dev"><i>Curso Dev.</i></a><span>
+
+## 🧑‍💻 <a href="https://github.com/OsniFilipo/Ola-Mundo"><i>Olá, Mundo!</i></a><span>
   
+Primeiro reposítório no GitHub.
+  
+  - Puro HTML.
+  - Sem o CSS.
+  - O uso no ``<title>`` em um site.
+  - O uso no ``<h1>`` em um site.
+  - O uso no ``<p>`` em um site.
+  
+Usar o ``<title>`` em um site.
+  
+```
+
+  <title>Meu primeiro site em repositório</title>
+  
+```
+Usar o ``<h1>`` em um site.
+  
+```
+
+  <h1>Olá, Mundo!</h1>
+  
+```
+
+Usar o ``<p>`` em um site.
+  
+```
+
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi possimus ipsa sequi porro ab, nihil in ducimus? Distinctio, dolorum, quae dolore dolores harum optio, voluptas officiis perspiciatis itaque et tempore?</p>
+  
+```
+
+## 🧑‍💻 <a href="https://github.com/OsniFilipo/Carousel"><i>Repositório do Carousel.</i></a><span>
+  
+Primeiro carousel que um fiz.
+  
+  - Carousel simples.
+  - Separeção de HTML, CSS e JS.
+  - Primeio projetos JavaScript.
+  - Ícone no site.
+  - Imagem usando o link.
+  
+Projetos JavaScript no arquivo do site.
+  
+```
+
+  <link rel="stylesheet" type="text/js" href="javascript.js">
+  
+```
+
+Ícone no site.
+  
+```
+
+  <link rel="icon" type="image/x-icon" href="Logo.svg"/>
+  
+```
+
+Imagem usando o link.
+  
+```
+
+  <img src="https://unsplash.it/1600/400?image=990"/>
+  
+```
+
+Arquivo ``javascript.js``.
+  
+```
+
+  document.querySelector("#items")
+  .addEventListener("wheel" , event => {
+      if(event.deltaY > 0) {
+          event.target.scrollBy(300, 0)
+      } else {
+          event.target.scrollBy(-300, 0)
+      }
+  })
+  
+```
+
 ## 🧑‍💻 <a href="https://github.com/OsniFilipo/Curso-Dev"><i>Repositório do Curso Dev.</i></a><span>
   
 O tem neste projeto.
   
-- Pasta de Imagem no HTML e CSS.
-- Uns dos primeiros arquivos que separei o arquivo ``index.html`` e ``style.css``.
-- Botão com amimação.
-- Imagem do fundo 100%.
+  - Pasta de Imagem no HTML e CSS.
+  - Uns dos primeiros arquivos que separei o arquivo ``index.html`` e ``style.css``.
+  - Botão com amimação.
+  - Imagem do fundo 100%.
   
 Pasta de Imagem no HTML e CSS.
   
