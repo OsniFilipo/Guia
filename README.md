@@ -25,6 +25,14 @@ A ideia deste repositório é guiar o usuário, usando ``README.md`` nos projeto
   - <a href="https://github.com/OsniFilipo/Aprovando_Empr-stimo"><i>Aprovando Empréstimo em Python.</i></a><span>
   - <a href="https://github.com/OsniFilipo/Curso-Dev"><i>Curso Dev.</i></a><span>
 
+## 🚨 Cursos em andamento e concluído.
+  
+  - <a href="https://github.com/OsniFilipo/CeV-Java-B"><i>Curso de Java( Curso em Vídeo ).</i></a><span>
+
+## 🖼️ Guia de ``README.md``.
+
+  - <a href="https://github.com/OsniFilipo/github-profile-readme-generator"><i>GitHub Profile README Generator.</i></a><span>
+
 ## 🧑‍💻 <a href="https://github.com/OsniFilipo/Ola-Mundo"><i>Olá, Mundo!</i></a><span>
   
 Primeiro reposítório no GitHub.
@@ -55,55 +63,6 @@ Usar o ``<p>`` em um site.
 ```
 
   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi possimus ipsa sequi porro ab, nihil in ducimus? Distinctio, dolorum, quae dolore dolores harum optio, voluptas officiis perspiciatis itaque et tempore?</p>
-  
-```
-
-## 🧑‍💻 <a href="https://github.com/OsniFilipo/Carousel"><i>Repositório do Carousel.</i></a><span>
-  
-Primeiro carousel que um fiz.
-  
-  - Carousel simples.
-  - Separeção de HTML, CSS e JS.
-  - Primeio projetos JavaScript.
-  - Ícone no site.
-  - Imagem usando o link.
-  
-Projetos JavaScript no arquivo do site.
-  
-```
-
-  <link rel="stylesheet" type="text/js" href="javascript.js">
-  
-```
-
-Ícone no site.
-  
-```
-
-  <link rel="icon" type="image/x-icon" href="Logo.svg"/>
-  
-```
-
-Imagem usando o link.
-  
-```
-
-  <img src="https://unsplash.it/1600/400?image=990"/>
-  
-```
-
-Arquivo ``javascript.js``.
-  
-```
-
-  document.querySelector("#items")
-  .addEventListener("wheel" , event => {
-      if(event.deltaY > 0) {
-          event.target.scrollBy(300, 0)
-      } else {
-          event.target.scrollBy(-300, 0)
-      }
-  })
   
 ```
 
@@ -177,11 +136,96 @@ Botão com amimação para lado 02.
     z-index: -1;
     transition: 1s;
 }
+
+```
+
+## 🧑‍💻 <a href="https://github.com/OsniFilipo/Light-Dark-Mode"><i>Modo claro e escuro.</i></a><span>
+  
+Reposítório modo claro e escuro.
+  
+  - Efeito de slide.
+  - Uso de CSS para alterar o modo claro e escuro.
+
+<img src="/Imagens/imag02.png" width="1028">
+
+<img src="/Imagens/imag03.png" width="1028">
+
+## 🧑‍💻 <a href="https://github.com/OsniFilipo/Carousel"><i>Repositório do Carousel.</i></a><span>
+  
+Primeiro carousel que um fiz.
+  
+  - Carousel simples.
+  - Separeção de HTML, CSS e JS.
+  - Primeio projetos JavaScript.
+  - Ícone no site.
+  - Imagem usando o link.
+  
+Projetos JavaScript no arquivo do site.
   
 ```
+
+  <link rel="stylesheet" type="text/js" href="javascript.js">
   
-## 🧑‍💻 <a href="https://github.com/OsniFilipo/Curso-Dev"><i>Repositório do Curso Dev.</i></a><span>
+```
+
+Ícone no site.
   
+```
+
+  <link rel="icon" type="image/x-icon" href="Logo.svg"/>
+  
+```
+
+Imagem usando o link.
+  
+```
+
+  <img src="https://unsplash.it/1600/400?image=990"/>
+  
+```
+
+Arquivo ``javascript.js``.
+  
+```
+
+  document.querySelector("#items")
+  .addEventListener("wheel" , event => {
+      if(event.deltaY > 0) {
+          event.target.scrollBy(300, 0)
+      } else {
+          event.target.scrollBy(-300, 0)
+      }
+  })
+  
+```
+
+## 🧑‍💻 <a href="https://github.com/OsniFilipo/SistemaRecomedacao"><i>Sistema Recomedacao.</i></a><span>
+  
+Sistema Recomedacao usando Jupyter Notebook.
+  
+  - Jupyter Notebook em progama na aula da faculdade.
+
+## 🧑‍💻 <a href="https://github.com/OsniFilipo/MENU-RESPONSIVO"><i>Menu reponsivo.</i></a><span>
+  
+Primeiro menu reponsivo.
+  
+  - Só usando o HTML e CSS.
+
+## 🧑‍💻 <a href="https://github.com/OsniFilipo/Idrinks-2.0"><i>Idrinks 2,0(Projeto em andamento).</i></a><span>
+
+Projeto em andamento .
+  
+  - <a href="https://github.com/OsniFilipo/Idrinks"><i>Melhorar o Idrinks.</i></a><span>
+
+## 🧑‍💻 <a href="https://github.com/OsniFilipo/Soki-Import"><i>Soki Import(Projeto em andamento).</i></a><span>
+
+Projeto em andamento .
+  
+  - Projeto futuro.
+
+ 
 ## 🗺️ Trabalhos de outra pessoas.
   
-- <a href="https://github.com/OsniFilipo/html-css-javascript-projects"><i>100 projetos em 100 dias - HTML, CSS e JavaScript</i></a><span>
+- <a href="https://github.com/OsniFilipo/html-css-javascript-projects"><i>100 projetos em 100 dias - HTML, CSS e JavaScript.</i></a><span>
+- <a href="https://github.com/OsniFilipo/guiadobackend"><i>Guia do Desenvolvedor Back-end</i></a><span>
+- <a href="https://github.com/OsniFilipo/afip.php"><i>Conectar os Web Services de AFIP</i></a><span>
