@@ -251,4 +251,4 @@ Projeto em andamento .
 
 ## 💡 Vagas no GitHub.
   
-  - <a href="https://github.com/brasil-php/vagas/issues"><i>Vagas.</i></a><span>
+  - <a href="https://github.com/brasil-php/vagas/issues"><i>Vagas em programação.</i></a><span>
