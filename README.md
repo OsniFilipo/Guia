@@ -38,6 +38,7 @@ A ideia deste repositório é guiar o usuário, usando ``README.md`` nos projeto
   - <a href="https://github.com/OsniFilipo/github-profile-readme-generator"><i>GitHub Profile README Generator.</i></a><span>
   - <a href="https://github.com/duribeiro/duribeiro"><i>README.md do Eduardo Ribeiro(Usado com base).</i></a><span>
   - <a href="https://github.com/rafaballerini/rafaballerini"><i>README.md da Rafaella Ballerini(Usado com base).</i></a><span>
+  - <a href="https://github.com/anuraghazra/github-readme-stats"><i>GitHub Readme Stats.</i></a><span>
 
 ## 🧑‍💻 <a href="https://github.com/OsniFilipo/Ola-Mundo"><i>Olá, Mundo!</i></a><span>
   
