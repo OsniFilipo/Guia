@@ -26,12 +26,18 @@ A ideia deste repositório é guiar o usuário, usando ``README.md`` nos projeto
   - <a href="https://github.com/OsniFilipo/Curso-Dev"><i>Curso Dev.</i></a><span>
 
 ## 🚨 Cursos em andamento e concluído.
-  
+
+  - <a href="https://github.com/OsniFilipo/Curso-em-Video-JavaScript"><i>Curso de JavaScript</i></a><span>
   - <a href="https://github.com/OsniFilipo/CeV-Java-B"><i>Curso de Java( Curso em Vídeo ).</i></a><span>
+  - <a href="https://github.com/OsniFilipo/Cursinho-de-Flutter"><i>Cursinho Flutter.</i></a><span>
+  - <a href="https://github.com/OsniFilipo/Curso-em-Video-HTML5-e-CSS3"><i>Curso em Video HTML5 e CSS3.</i></a><span>
+  - <a href="https://github.com/loiane/curso-angular"><i>Curso Angular Gratuito.</i></a><span>
 
 ## 🖼️ Guia de ``README.md``.
 
   - <a href="https://github.com/OsniFilipo/github-profile-readme-generator"><i>GitHub Profile README Generator.</i></a><span>
+  - <a href="https://github.com/duribeiro/duribeiro"><i>README.md do Eduardo Ribeiro(Usado com base).</i></a><span>
+  - <a href="https://github.com/rafaballerini/rafaballerini"><i>README.md da Rafaella Ballerini(Usado com base).</i></a><span>
 
 ## 🧑‍💻 <a href="https://github.com/OsniFilipo/Ola-Mundo"><i>Olá, Mundo!</i></a><span>
   
@@ -65,6 +71,12 @@ Usar o ``<p>`` em um site.
   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi possimus ipsa sequi porro ab, nihil in ducimus? Distinctio, dolorum, quae dolore dolores harum optio, voluptas officiis perspiciatis itaque et tempore?</p>
   
 ```
+
+## 🧑‍💻 <a href="https://github.com/OsniFilipo/Landin-Page"><i>Landing Page</i></a><span>
+  
+Primeira Landing Page.
+  
+<img src="/Imagens/imag04.png" width="1028">
 
 ## 🧑‍💻 <a href="https://github.com/OsniFilipo/Curso-Dev"><i>Repositório do Curso Dev.</i></a><span>
   
@@ -205,7 +217,7 @@ Sistema Recomedacao usando Jupyter Notebook.
   
   - Jupyter Notebook em progama na aula da faculdade.
 
-## 🧑‍💻 <a href="https://github.com/OsniFilipo/MENU-RESPONSIVO"><i>Menu reponsivo.</i></a><span>
+## 🧑‍💻 <a href="https://github.com/OsniFilipo/MENU-RESPONSIVO"><i>Menu reponsivo(Projeto em andamento).</i></a><span>
   
 Primeiro menu reponsivo.
   
@@ -226,6 +238,17 @@ Projeto em andamento .
  
 ## 🗺️ Trabalhos de outra pessoas.
   
-- <a href="https://github.com/OsniFilipo/html-css-javascript-projects"><i>100 projetos em 100 dias - HTML, CSS e JavaScript.</i></a><span>
-- <a href="https://github.com/OsniFilipo/guiadobackend"><i>Guia do Desenvolvedor Back-end</i></a><span>
-- <a href="https://github.com/OsniFilipo/afip.php"><i>Conectar os Web Services de AFIP</i></a><span>
+  - <a href="https://github.com/OsniFilipo/html-css-javascript-projects"><i>100 projetos em 100 dias - HTML, CSS e JavaScript.</i></a><span>
+  - <a href="https://github.com/arthurspk/guiadobackend"><i>Guia do Desenvolvedor Back-end.</i></a><span>
+  - <a href="https://github.com/arthurspk/guiadofrontend"><i>Guia do Desenvolvedor Front-end.</i></a><span>
+  - <a href="https://github.com/OsniFilipo/afip.php"><i>Conectar os Web Services de AFIP.</i></a><span>
+  - <a href="https://github.com/bedimcode/responsive-portfolio-website-Alexa"><i>Responsive Portfolio Website Alexa.</i></a><span>
+  - <a href="https://github.com/jamesqquick/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript"><i>Build a Quiz App with HTML, CSS, and JavaScript.</i></a><span>
+  - <a href="https://github.com/florinpop17/app-ideas"><i>App Ideas Collection.</i></a><span>
+  - <a href="https://github.com/EbookFoundation/free-programming-books"><i>Livros grátis em programação.</i></a><span>
+  - <a href="https://github.com/bradtraversy/design-resources-for-developers"><i>Design usando programação.</i></a><span>
+
+
+## 💡 Vagas no GitHub.
+  
+  - <a href="https://github.com/brasil-php/vagas/issues"><i>Vagas.</i></a><span>
