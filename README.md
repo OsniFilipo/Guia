@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://www.guiaestudo.com.br/wp-content/uploads/2020/03/guia-estudo.jpg" width="1028">
+<img src="https://repository-images.githubusercontent.com/290825979/0f29c200-317d-11eb-97b1-f1840ad747ff" width="1028">
   
 </div>
 
